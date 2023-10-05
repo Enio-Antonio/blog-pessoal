@@ -1,0 +1,25 @@
+.centraliza-container {
+    height: 80vh;
+    color: #000;
+    margin: auto;
+    width: 95%;
+    padding: 3em;
+    box-shadow: 0 0 2.2em rgba(0,0,0, .2);
+}
+
+#texto {
+    background-color: #fff;
+}    
+
+#h1-artigo {
+    font-size: 45px;
+}
+
+body {
+    background-color: #555;
+}
+
+article p {
+    text-align: justify;
+    font-size: 20px;
+}
