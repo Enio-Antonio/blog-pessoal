@@ -6,7 +6,9 @@
 }
 
 header{
-    background-color: #101026;
+    background-color: #171717;
+    /* background: linear-gradient(to right, #000, #fd017d); */
+
 }
 
 li{
@@ -79,7 +81,8 @@ a {
         top: 70px;
         gap: 0;
         border-radius: 0 0 20px 20px;
-        background-color: #101026;
+        /* background-color: #101026; */
+        background: linear-gradient(to right, #000, #fd017d);
         flex-direction: column;
         width: 100%;
         transition: 0.3s;

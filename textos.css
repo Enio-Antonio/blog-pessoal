@@ -17,6 +17,7 @@
 
 body {
     background-color: #555;
+    /* background: linear-gradient(to right, #000, #fd017d); */
 }
 
 article p {
@@ -26,4 +27,8 @@ article p {
 
 .a-do-contato {
     color: #000;
+}
+
+#site {
+    text-decoration: underline;
 }
