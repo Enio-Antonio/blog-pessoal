@@ -78,18 +78,19 @@ body {
 }
 
 .card-1 .card-footer {
-    background-color: yellow;
+    background-color: #d7bb09;
 }
 
 .card-1 .card-local {
-    color: #fded00;
+    /*color: #fded00;*/
+    color: #d7bb09;
     font-weight: bolder;
-    -webkit-text-stroke: 0.2px #000;
+    /*-webkit-text-stroke: 0.2px #000;*/
 }
 
 #a_do_card-1 {
     color: #fff;
-    -webkit-text-stroke: 0.5px #000;
+    /*-webkit-text-stroke: 0.5px #000;*/
     font-weight: bolder;
 }
 
